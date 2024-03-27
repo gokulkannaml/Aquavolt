@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895117665161",
+    "project_id": "login-ad2ea",
+    "storage_bucket": "login-ad2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895117665161:android:2e378fc5b3508e0f27f758",
+        "android_client_info": {
+          "package_name": "com.example.login_registor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHdP3PuiMhxfVGAtppSiex1aBb7YyZpjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

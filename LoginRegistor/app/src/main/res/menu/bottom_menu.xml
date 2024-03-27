@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:title="Electricity"
+        android:icon="@drawable/baseline_electric_bolt_24"/>
+    <item
+        android:id="@+id/Water"
+        android:title="Water"
+        android:icon="@drawable/baseline_water_24"
+        />
+
+
+
+    <item
+        android:id="@+id/Prof"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_2_24"/>
+
+    <item
+        android:id="@+id/set"
+        android:title="Settings"
+        android:icon="@drawable/baseline_settings_24"/>
+
+</menu>

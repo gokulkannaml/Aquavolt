@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/E_bill"
+        android:title="Electric Bill"
+        android:icon="@drawable/baseline_electric_bolt_24"
+        />
+    <item
+        android:id="@+id/W_bill"
+        android:title="Water Bill"
+        android:icon="@drawable/baseline_water_24"
+        />
+</menu>
